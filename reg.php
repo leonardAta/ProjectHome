@@ -10,6 +10,10 @@
 	<form action="" method="post">
 		<p>Firstname: <input type="text" name="firstname"/></p>
 		<p>Lastname : <input type="text" name="lastname"/></p>
+		<p>Gender: Male<input type="radio" name="gender" value="male"/>
+ 				   Female <input type="radio" name="gender" value="female"/>
+ 		<p>Password: <input type="password" name="password"/>
+ 		<p> <input type="submit" name="submit" value="submit"/>	
 
 	</form>
 </body>
